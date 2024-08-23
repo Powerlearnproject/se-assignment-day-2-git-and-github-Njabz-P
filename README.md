@@ -19,10 +19,13 @@ Version Control manages and maintain the integrity of codebases, especially in c
 
 
 
+
 **## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?**
 
 Assuming you already registered on Github an are Logged in, the steps are as follows:
+
  1. Create Repository by clicking the `+` icon in the top-right corner & select “New repository.”
+  
  2. Fill Out Details:
                       a) Repository Name                   - Enter a name for your repo.
                       b) Description (Optional)            - Add a brief description.
@@ -30,7 +33,10 @@ Assuming you already registered on Github an are Logged in, the steps are as fol
                       d) Initialize with README (Optional) - Add a README file.
                       e) Add .gitignore (Optional)         - Select a template to ignore certain files.
                       f) Choose a License (Optional)       - Pick a license if sharing publicly.
+ 
  3. Create by clicking “Create repository” to finish & your repository is now set up and ready to use.
+
+
 
     
 **## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?**
