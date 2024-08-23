@@ -94,6 +94,8 @@ Summary
 Public repositories are best for open collaboration and visibility, while private repositories offer security and control but limit public interaction.
 
 
+
+
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 Assuming you have aready installed Git on your computer steps to make your first commit to a GitHub Repository are as follows: 
@@ -140,15 +142,19 @@ Commits Help in Tracking Changes and Managing Versions through:
 In summary, commits are fundamental for version control, helping you keep a record of your project's evolution and manage different versions and contributions effectively.
 
 
+
+
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 Branching in Git works by creating separate lines of development within a repository using the following commands:
+
                       Create a Branch -   Use `git branch branch-name` to create a new branch.
                       Switch Branches -   Use `git checkout branch-name` or `git checkout -b branch-name` to switch.
                       Work and Commit -   Make changes, stage with `git add`, and save with `git commit`.
                       Merge Branches  -   Integrate changes into another branch using `git merge branch-name`.
 
 Importance for Collaborative Development is:
+
                       Parallel Development - Multiple developers can work on different tasks simultaneously.
                       Feature Isolation    - Keeps new features separate from the stable main codebase.
                       Experimentation      - Test new ideas safely without affecting the main project.
