@@ -5,7 +5,7 @@
 Version Control is a system that tracks changes to files over time, allowing you to manage and keep a history of these changes.
 
 Its key Concepts is having the following functionalities:
-
+                      
                       a) Repository(Repo) - A special folder that saves all versions of your project.
                       b) Commit           - A snapshot of your project at a specific time. It includes a note about what was changed.
                       c) Branch           - A separate path for trying out new ideas without affecting the main project.
@@ -14,7 +14,6 @@ Its key Concepts is having the following functionalities:
                       f) Pull Request(PR) - A request to review and add your changes to the main project.
                       
 GitHub is popular because it makes teamwork easier, allowing multiple people to collaborate on projects. It also saves your project online, so you don’t have to worry about losing it if your computer breaks. GitHub helps organize and review changes through branches and pull requests, and it keeps a complete history of all changes. It integrates with other tools to automate tasks, further streamlining the development process.
-
 Version Control manages and maintain the integrity of codebases, especially in collaborative environments by enabling you to track changes, revert changes, collaborate, branch and backup.
 
 
