@@ -96,22 +96,34 @@ Public repositories are best for open collaboration and visibility, while privat
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
-Assuming you have aready installed Git on your computer steps to make your first commit to a GitHub Repository are as follows:
-                      
-                      1. Clone the Repository: Get a copy of the repository on your local machine.
+Assuming you have aready installed Git on your computer steps to make your first commit to a GitHub Repository are as follows: 
+
+                       1. Clone the Repository: Get a copy of the repository on your local machine.
+
                                  `git clone https://github.com/username/repository-name.git`
+                                 
                       2. Navigate to the Repository: Change to the repository directory.
+                      
                                  `cd repository-name`
+                                 
                       3. Make Changes: Edit or add files in the repository as needed.
+                      
                       4. Stage Changes: Prepare the changes for committing by adding them to the staging area.
+                      
                                  `git add .`
                          (Use    `git branch branch-name` to stage all changes, or `git filename` to stage specific files.)
+                      
                       5. Commit Changes: Save the staged changes with a descriptive message
+                      
                                  `git commit -m "Your commit message here"`
                          (The commit message should briefly describe the changes you made.)
+                      
                       6. Push Changes: Upload the commit to the GitHub repository.
+                      
                                  `git push origin main`
+                                 
                          (Replace main with the appropriate branch name if you are working on a different branch.)
+
 Commits are essential for tracking project evolution and managing versions. They are snapshots of your project at specific points in time.
 Each commit records:
                       
