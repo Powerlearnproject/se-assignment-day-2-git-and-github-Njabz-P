@@ -7,9 +7,7 @@ Version Control is a system that tracks changes to files over time, allowing you
 Its key Concepts is having the following functionalities:
 
                       a) Repository(Repo) - A special folder that saves all versions of your project.
-                      
                       b) Commit           - A snapshot of your project at a specific time. It includes a note about what was changed.
-                      
                       c) Branch           - A separate path for trying out new ideas without affecting the main project.
                       
                       D) Merge            - Combining changes from different branches into the main project.
